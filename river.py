@@ -1,5 +1,8 @@
 #!/bin/python
-
+'''
+Mike J. Hopkins
+June 2, 2017
+'''
 
 # set up the inclusionary sets for each participant
 rabbit   = [0,1]						# assuming we *might differentiate "to" and "towards"
